@@ -1,2 +1,2 @@
-# archlinux config
-The Arch Linux install and configure file.
+# archlinux master
+The Arch Linux leanning and evrything.
