@@ -1,2 +1,2 @@
-# archlinux
-The Arch Linux Leanning and configure.
+# archlinux config
+The Arch Linux install and configure file.
