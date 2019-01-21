@@ -22,4 +22,4 @@ fi
 exec fcitx &
 exec udiskie &
 exec awesome
-
+#exec startkde
