@@ -10,7 +10,7 @@ set suspend         # 允许 ctrl-z 将 nano 置于后台
 set smarthome       # 第一次 Home 跳到行首非空字符，第二次到行首
 set tabstospaces    # 展开制表符为空格（如果需要的话）
 set mouse           # 允许鼠标
-set linenumbers     # 显示行号（可以在编辑时 ALT-# 切换）
+#set linenumbers     # 显示行号（可以在编辑时 ALT-# 切换）
 set casesensitive   # 搜索使用大小写敏感
 set multibuffer     # 使用 CTRL-r 读取文件时，默认读取到新缓存
 set nonewlines      # 不在文件末尾添加新行
