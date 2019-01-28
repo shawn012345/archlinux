@@ -112,8 +112,7 @@ mode "resize" {
 
 
                                                                      ## Start some program
-                                                                     exec --no-startup-id fcitx &
-                                                                     exec --no-startup-id xcompmgr -Ss -n -Cc -fF -I-10 -O-10 -D1 -t-3 -l-4 -r4 &
+                                                                     exec --no-startup-id udiskie &
                                                                      exec --no-startup-id volumeicon &
                                                                      exec --no-startup-id feh --bg-scale ~/Pictures/background.jpg &
 
